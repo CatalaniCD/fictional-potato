@@ -5,7 +5,6 @@
 ## Topics
 
 ```
-Lectures :
   0. Introduction
   0.1 Brief Review of Vectors, Planes, and Optimization
   
