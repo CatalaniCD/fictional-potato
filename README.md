@@ -6,10 +6,10 @@ Massachusetts Institute of Technology — a coeducational, privately endowed res
 
 ## Index
 
- [6.00.1x]()
+ [6.00.1x : Introduction to Computer Science and Programming Using Python]()
  
- [6.00.2x]()
+ [6.00.2x : Introduction to Computational Thinking and Data Science]()
  
- [6.86x]()
+ [6.86x : Machine Learning with Python-From Linear Models to Deep Learning]()
  
  
