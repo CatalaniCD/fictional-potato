@@ -4,6 +4,9 @@
 
 Massachusetts Institute of Technology — a coeducational, privately endowed research university founded in 1861 — is dedicated to advancing knowledge and educating students in science, technology, and other areas of scholarship that will best serve the nation and the world in the 21st century.
 
+## Approach
+Use this repository from the local environment; use a pull request, shape the repository in local, the push changes.
+
 ## Index
 
  [6.00.1x : Introduction to Computer Science and Programming Using Python](https://github.com/CatalaniCD/fictional-potato/tree/main/6001x)
